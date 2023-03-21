@@ -1,0 +1,14 @@
+[package]
+name = "cr4t3"
+version = "3.0.0"
+edition = '2021'
+description = "Enjoy!"
+repository = "https://github.com/Swoiksdmop/Cr4t3"
+license = "MIT"
+readme = "README.md"
+authors = ["Ethan <kigangadarell@gmail.com>"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
