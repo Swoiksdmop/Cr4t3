@@ -1,4 +1,16 @@
+use std::io;
 fn main() {
-    cr4t3::hello();
-    println!("THANK YOU. IT WORKS!\nEmail me at kigangadarell@gmail.com.\nFind my github at https://github.com/Swoiksdmop");
+  println!("Welcome to Ethan's program of converting Fahrenheit to Celcius!!!\n\nWhat would you like to convert to celcius? >");
+
+  let mut one = String::new();
+
+  io::stdin().read_line(&mut one).expect("Failed to read line");
+
+  let one: f64 = one.trim().parse::<f64>().expect("Failed to read line");
+  
+  let _conversion = one - 32.0;
+  let _conversion2 = _conversion * 5.0;
+  let _conversion3 = _conversion2 / 9.0;
+
+  println!("\n\n{one} degrees fahrenheit is {_conversion3} degrees celcius");
 }
