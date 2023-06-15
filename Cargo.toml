@@ -1,7 +1,8 @@
 [package]
 name = "cr4t3"
-version = "3.1.5"
+version = "3.1.6"
 edition = '2021'
+documentation = "https://docs.rs/cr4t3/"
 description = "Enjoy!"
 repository = "https://github.com/Swoiksdmop/Cr4t3"
 license = "MIT"
