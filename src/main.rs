@@ -1,6 +1,6 @@
 use std::io;
 fn main() {
-  println!("Welcome to Ethan's program of converting Fahrenheit to Celcius!!!\n");
+  println!("Welcome to my program of converting Fahrenheit to Celcius!!!\n");
   three_tries()
 }
 
