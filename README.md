@@ -1,1 +1,1 @@
-A program that uses the crate cr4t3 to print good and smooth output.
+A program that includes a lib.rs file to be able to take input as fahrenheit using functions in the code.

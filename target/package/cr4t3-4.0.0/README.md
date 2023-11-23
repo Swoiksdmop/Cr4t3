@@ -1,0 +1,1 @@
+A program that uses the crate cr4t3 to print good and smooth output.

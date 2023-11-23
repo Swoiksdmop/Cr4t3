@@ -1,7 +1,4 @@
 use std::io;
-pub fn calle() {
-    println!("Success!");
-}
 pub fn input() {
     println!("\nWhat would you like to convert to celcius? >");
   
@@ -16,8 +13,12 @@ pub fn input() {
     println!("\n\n{one} degrees fahrenheit is {_conversion} degrees celcius");
   }
   
-  pub fn three_tries() {
+pub fn three_tries() {
     for _ in 0..3 {
       input()
     }
-  }
+}
+
+pub fn calle() {
+    println!("Success!");
+}

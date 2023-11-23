@@ -1,0 +1,1 @@
+/home/ethan/Desktop/rust_programming/rust/projects/Cr4t3/target/package/cr4t3-4.0.0/target/debug/cr4t3: /home/ethan/Desktop/rust_programming/rust/projects/Cr4t3/target/package/cr4t3-4.0.0/src/lib.rs /home/ethan/Desktop/rust_programming/rust/projects/Cr4t3/target/package/cr4t3-4.0.0/src/main.rs
