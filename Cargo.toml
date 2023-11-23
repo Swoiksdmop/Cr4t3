@@ -1,6 +1,6 @@
 [package]
 name = "cr4t3"
-version = "3.1.6"
+version = "3.1.8"
 edition = '2021'
 documentation = "https://docs.rs/cr4t3/"
 description = "Enjoy!"
@@ -13,4 +13,3 @@ authors = ["Ethan <kigangadarell@gmail.com>"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-
