@@ -1,5 +1,7 @@
 use std::io;
 pub fn input() {
+  println!("Welcome to my program of converting Fahrenheit to Celcius!!!\n");
+
     println!("\nWhat would you like to convert to celcius? >");
 
     let mut one = String::new();
@@ -16,7 +18,7 @@ pub fn input() {
 }
 
 pub fn three_tries() {
-    for _ in 0..3 {
+    for _ in 0..2 {
         input()
     }
 }
