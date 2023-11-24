@@ -1,6 +1,6 @@
 [package]
 name = "cr4t3"
-version = "4.0.0"
+version = "4.1.0"
 edition = '2021'
 documentation = "https://docs.rs/cr4t3/"
 description = "Enjoy!"
