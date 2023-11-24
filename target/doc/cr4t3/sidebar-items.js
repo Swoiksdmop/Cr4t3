@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["calle","input","three_tries"]};
