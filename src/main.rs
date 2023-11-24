@@ -1,3 +1,3 @@
 fn main() {
-  println!("Welcome to my program of converting Fahrenheit to Celcius!!!\n");
+    println!("Welcome to my program of converting Fahrenheit to Celcius!!!\n");
 }
