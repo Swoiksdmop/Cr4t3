@@ -10,7 +10,7 @@ pub fn input() {
         .read_line(&mut one)
         .expect("Failed to read line");
 
-    let one: f64 = one.trim().parse::<f64>().expect("Failed to read line");
+    let one: f64 = one.trim().parse::<f64>().expect("FAILED TO READ/PARSE INPUT FROM LINE!!!");
 
     let _conversion = (one - 32.0) * 5.0 / 9.0;
 
