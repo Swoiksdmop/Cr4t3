@@ -1,14 +1,15 @@
 [package]
 name = "cr4t3"
-version = "4.1.0"
+version = "4.1.5"
 edition = '2021'
 documentation = "https://docs.rs/cr4t3/"
 description = "Enjoy!"
 repository = "https://github.com/Swoiksdmop/Cr4t3"
 license = "MIT"
 readme = "README.md"
+keywords = ["cr4t3", "cr4", "crate"]
+categories = ["command-line-utilities"]
 authors = ["Ethan <kigangadarell@gmail.com>"]
-
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
